@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Prueba01</string>
+    <string name="title_activity_opciones">Opciones</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="edtx">nombre</string>
+    <string name="edtc">Contraseña</string>
+    <string name="edtb">continuar</string>
+    <string name="nombrep">Nombre del producto</string>
+    <string name="montoa">Pagar monto</string>
+    <string name="total">total</string>
+    <string name="envid">Envio a domicilio</string>
+    <string name="retirs">retiro en sucursal</string>
+    <string name="envg">envio gratis</string>
+    <string name="saldo">Saldo</string>
+    <string name="productos">Productos</string>
+    <string name="comentarios">comentarios</string>
+    <string name="clientes">clientes</string>
+    <string name="info">info</string>
+    <string name="calificar">calificar</string>
+    <string name="limpiar">limpiar</string>
+
+
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
